@@ -5,7 +5,7 @@ Basic Usage
 ------
 
 ```
-docker run -v $(pwd):/app webridge
+docker run -v $(pwd):/app webridge/phpunit
 ```
 
 Link to a Database
